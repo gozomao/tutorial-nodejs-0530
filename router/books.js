@@ -21,6 +21,8 @@ router.get("/list",(req,res)=>{
 
 module.exports = router;
 
+console.log("我是 books router.");
+
 //gozomao
 //0955610512qq
 
